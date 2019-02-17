@@ -1,5 +1,5 @@
 {
-    "name": "OneTwoTripWidget",
+    "name": "flight-widget",
     "scripts": {
         "clean:dist": "rimraf dist",
         "build:dev": "npm run clean:dist && webpack --mode=development",
